@@ -29,3 +29,6 @@
 - 카툰화: 생성된 이미지를 만화처럼 보이도록 수정해줌(openCV의 필터 이용)
 - 자서전 기록: mysql, aws s3를 이용하여 이미지와 작성된 글 저장
 
+### 구현 영상
+https://github.com/user-attachments/assets/7d17637e-2de9-4873-916d-96c11443638f
+
