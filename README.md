@@ -1,4 +1,4 @@
-## Life Legacy - GDGoC Backya 4조
+## Life Legacy - GDGoC Baekya 4조
 
 ### 프로젝트 개요
 노인들이 AI 챗봇과 대화하며 자신의 자서전을 만들고, 이를 젊은 세대와 공유하며 정보 교류 및 지혜 전달을 돕는 서비스입니다.
